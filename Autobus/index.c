@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-int calcularPasajeros(int cambios[][2])
+int calcularPasajeros(int cambios[][2], int tam)
 {
 
     return 0;
