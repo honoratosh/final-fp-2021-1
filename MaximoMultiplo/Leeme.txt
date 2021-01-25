@@ -3,7 +3,7 @@ Máximo Múltiplo
 
 Objetivo:
 
-Dado un divisor y un límite, encontrar en eltero n más grande tal que:
+Dado un divisor y un límite, encontrar el entero n más grande tal que:
 
 n es divisible por el divisor
 n es menor o igual al límite
