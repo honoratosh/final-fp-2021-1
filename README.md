@@ -7,6 +7,6 @@ Para cada uno de los problemas hacer lo siguiente (un documento PDF por cada pro
 -Escribir el análisis, describiendo el problema e identificando los datos de entrada y de salida (PDF).
 -Generar pseudocódigo y diagrama de flujo (PDF).
 -Realizar una prueba de escritorio (PDF).
--Realizar la programación de la función solicitada
--Realizar un programa que haga pruebas con la información del directorio "test" y guardarlo en ese directorio.
+-Realizar la programación de la función solicitada y dejarla en el archivo index. En el archivo sólo debe existir la función, no una función main.
+-Realizar un programa que haga pruebas con la información del directorio "test" y guardarlo en ese directorio en un archivo prueba.c dentro de ese mismo directorio.
 -Subir el código fuente a un repositorio de github o gitlab.
